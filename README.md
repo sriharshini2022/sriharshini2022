@@ -1,7 +1,25 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🌟 About Me:<br>🧠 I’m currently working on<br><br>Real-time object detection using YOLOv8<br><br>AI-powered tools like ProctorVision and AutoCoder X<br><br>🤝 I’m looking to collaborate on<br><br>AI/ML projects, open-source tools, and innovative tech communities<br><br>Hackathons and workshops to share and gain knowledge<br><br>🙋‍♀️ I’m looking for help with<br><br>Advanced NLP models and real-time AI deployments<br><br>Fine-tuning LLMs and optimizing deep learning models<br><br>🌱 I’m currently learning<br><br>Diffusion models and generative AI<br><br>Streamlit app development and deployment techniques<br><br>💬 Ask me about<br><br>YOLO object detection<br><br>Stable Diffusion with ComfyUI<br><br>Resume screening with NLP<br><br>⚡ Fun fact<br>I once organized a hackathon with over 400+ participants across 5+ colleges—and still had energy to code the next day!
+🌟 About Me:<br>
+🧠 I’m currently working on:<br>
+Real-time object detection using YOLOv8<br>
+AI-powered tools like ProctorVision and AutoCoder X<br><br>
+
+🤝 I’m looking to collaborate on:<br>
+AI/ML projects, open-source tools, tech communities, hackathons, and workshops<br><br>
+
+🙋‍♀️ I’m looking for help with:<br>
+Advanced NLP models, real-time AI deployment, fine-tuning LLMs, and deep learning optimization<br><br>
+
+🌱 I’m currently learning:<br>
+Diffusion models, generative AI, Streamlit app development, and deployment strategies<br><br>
+
+💬 Ask me about:<br>
+YOLO object detection, Stable Diffusion with ComfyUI, and NLP-based resume screening<br><br>
+
+⚡ Fun fact:<br>
+I organized a hackathon with over 400+ participants across 5+ colleges—and still had energy to code the next day!<br>
 
 
 ## 🌐 Socials:
