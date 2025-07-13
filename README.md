@@ -4,24 +4,17 @@
 🌟 About Me:<br>
 🧠 I’m currently working on:<br>
 Real-time object detection using YOLOv8<br>
-AI-powered tools like ProctorVision and AutoCoder X<br><br>
-
+AI-powered tools like ProctorVision and AutoCoder X<br>
 🤝 I’m looking to collaborate on:<br>
-AI/ML projects, open-source tools, tech communities, hackathons, and workshops<br><br>
-
+AI/ML projects, open-source tools, tech communities, hackathons, and workshops<br>
 🙋‍♀️ I’m looking for help with:<br>
-Advanced NLP models, real-time AI deployment, fine-tuning LLMs, and deep learning optimization<br><br>
-
+Advanced NLP models, real-time AI deployment, fine-tuning LLMs, and deep learning optimization<br>
 🌱 I’m currently learning:<br>
-Diffusion models, generative AI, Streamlit app development, and deployment strategies<br><br>
-
+Diffusion models, generative AI, Streamlit app development, and deployment strategies<br>
 💬 Ask me about:<br>
-YOLO object detection, Stable Diffusion with ComfyUI, and NLP-based resume screening<br><br>
-
+YOLO object detection, Stable Diffusion with ComfyUI, and NLP-based resume screening<br>
 ⚡ Fun fact:<br>
 I organized a hackathon with over 400+ participants across 5+ colleges—and still had energy to code the next day!<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vallabhajosyula-sri-harshini-a822ab283) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@VALLABHAJOSYULASRIHARSHINI) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sri.harshini2725@gmail.com) 
 
