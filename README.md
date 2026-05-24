@@ -78,6 +78,8 @@ class SriHarshini:
 
 ## 🌐 Let's Connect
 
+## 🌐 Let's Connect
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vallabhajosyula-sri-harshini-a822ab283)
@@ -92,7 +94,7 @@ class SriHarshini:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=sriharshini2022&icon=6&color=9)
+![](https://komarev.com/ghpvc/?username=sriharshini2022&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 
 *"Code is poetry. Mine just happens to detect objects at 60fps."* 🎯
 
