@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SRI%20HARSHINI&fontSize=48&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=%3E%20AI%20ENGINEER%20//%20VISION%20//%20NLP%20//%20GENAI&descAlignY=58&descSize=16&descColor=00F0FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SRI%20HARSHINI&fontSize=48&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=%3E%20ASPIRING%20AI%20ENGINEER%20//%20VISION%20//%20NLP%20//%20GENAI&descAlignY=58&descSize=16&descColor=00F0FF" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+SRI_HARSHINI.exe...;%3E+ACCESS+GRANTED+%F0%9F%9F%A2;%3E+LOADING+MODULES%3A+CV+%2B+NLP+%2B+LLM;%3E+STATUS%3A+ONLINE+AND+SHIPPING+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -13,8 +13,8 @@
 
   ┌─────────────────────────────────────────┐
   │  IDENTITY.......: Vallabhajosyula Sri Harshini
-  │  ROLE...........: AI / ML Engineer
-  │  ORIGIN.........: Vignan's Institute of Engineering for Women, Vizag
+  │  ROLE...........: Aspiring AI / ML Engineer
+  │  ORIGIN.........: B.Tech Graduate, Vignan's Institute of Engineering for Women, Vizag
   │  CORE_MODULES...: Computer Vision | NLP | GenAI | LLMs
   │  ACTIVE_BUILDS..: ProctorVision | AutoCoder X | YOLOv8 real-time detection
   │  TRAINING_QUEUE.: Diffusion Models | LLM Fine-tuning | Streamlit Deploy
