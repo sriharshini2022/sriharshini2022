@@ -1,14 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sri%20Harshini&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Vision%20%7C%20NLP%20%7C%20GenAI&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sri%20Harshini&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Vision%20%7C%20NLP%20%7C%20GenAI&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sri+Harshini+👋;AI+%2F+ML+Engineer+%F0%9F%A4%96;YOLOv8+%7C+Generative+AI+%7C+LLMs+🔥;Building+tools+that+actually+matter+🚀)](https://git.io/typing-svg)
+```
+ ██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗
+ ██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝
+ ██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗
+ ██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║
+ ██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝
+ ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝
+        M O D E L S   T H A T   S E E   &   S P E A K
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sri+Harshini+%F0%9F%91%8B;AI+%2F+ML+Engineer+%F0%9F%A4%96;YOLOv8+%7C+Generative+AI+%7C+LLMs+%F0%9F%94%A5;Building+tools+that+actually+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 About Me
+### `$ whoami`
+
+```bash
+$ whoami
+> Vallabhajosyula Sri Harshini
+
+$ cat role.txt
+> AI/ML Engineer | Computer Vision · NLP · GenAI
+
+$ cat education.txt
+> Vignan's Institute of Engineering for Women, Vizag
+
+$ cat achievements.log
+> Organized a 400+ participant hackathon — and coded the next day 💪
+```
+
+<details>
+<summary>🧠 <b>class SriHarshini(): — click to expand</b></summary>
 
 ```python
 class SriHarshini:
@@ -18,20 +45,89 @@ class SriHarshini:
     building   = ["ProctorVision", "AutoCoder X", "Real-time YOLOv8 detection"]
     learning   = ["Diffusion Models", "Fine-tuning LLMs", "Streamlit Deployment"]
     superpower = "Organized a 400+ participant hackathon — and coded the next day 💪"
+
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something intelligent 🤖")
 ```
+
+</details>
 
 ---
 
 ## 🚀 Featured Projects
 
-| 🔬 Project | 💡 What it does |
-|---|---|
-| **ProctorVision** | AI-powered exam proctoring with real-time object detection |
-| **AutoCoder X** | AI tool that assists with auto code generation |
-| **NLP Resume Screener** | Smart resume filtering using Natural Language Processing |
-| **Image Encryption** | Pixel-level image encryption using Python |
-| **Caesar Cipher** | Classic cryptography implementation |
-| **Packet Sniffer** | Network packet analysis tool |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ ProctorVision
+AI-powered exam proctoring with real-time object detection
+
+`Python` `YOLOv8` `OpenCV`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ AutoCoder X
+AI tool that assists with auto code generation
+
+`Python` `LLMs` `GenAI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 NLP Resume Screener
+Smart resume filtering using Natural Language Processing
+
+`Python` `NLP` `scikit-learn`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Image Encryption
+Pixel-level image encryption using Python
+
+`Python` `OpenCV`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔑 Caesar Cipher
+Classic cryptography implementation
+
+`Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 Packet Sniffer
+Network packet analysis tool
+
+`Python` `Networking`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛣️ My Journey So Far
+
+```
+2022 ●──── Started my B.Tech, first "Hello World" in Python
+       │
+2023 ●──── Fell down the Computer Vision rabbit hole (OpenCV, YOLO)
+       │
+2024 ●──── Built ProctorVision · organized a 400+ person hackathon
+       │
+2025 ●──── Diving deep into GenAI, LLM fine-tuning & Diffusion Models
+       │
+ NOW  ●──── Shipping AutoCoder X, exploring Streamlit deployment 🚀
+```
 
 ---
 
@@ -76,8 +172,54 @@ class SriHarshini:
 
 ---
 
-## 🌐 Let's Connect
+## 🐍 Contribution Snake
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sriharshini2022/sriharshini2022/output/github-contribution-grid-snake.svg" width="100%"/>
+
+<sub>⚙️ powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — add the GitHub Action below to activate it</sub>
+
+</div>
+
+<details>
+<summary>⚙️ <b>Snake animation setup (one-time GitHub Action)</b></summary>
+
+Create `.github/workflows/snake.yml` in your profile repo with:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: sriharshini2022
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Push it once, let the action run, and the snake image above will animate automatically.
+
+</details>
+
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
 
